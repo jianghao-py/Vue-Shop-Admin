@@ -28,3 +28,64 @@ PC端零售管理系统
 欢迎页
 
 <img src="https://github.com/jianghao-py/Vue-Shop-Admin/blob/main/img/app1.png">
+
+<br>
+
+用户列表
+
+<img src="https://github.com/jianghao-py/Vue-Shop-Admin/blob/main/img/app2.png">
+
+<br>
+
+职位列表
+
+<img src="https://github.com/jianghao-py/Vue-Shop-Admin/blob/main/img/app3.png">
+
+<br>
+
+权限列表
+
+<img src="https://github.com/jianghao-py/Vue-Shop-Admin/blob/main/img/app4.png">
+
+<br>
+
+商品列表
+
+<img src="https://github.com/jianghao-py/Vue-Shop-Admin/blob/main/img/app5.png">
+
+<br>
+
+添加商品
+
+<img src="https://github.com/jianghao-py/Vue-Shop-Admin/blob/main/img/app6.png">
+
+<br>
+
+分类参数
+
+<img src="https://github.com/jianghao-py/Vue-Shop-Admin/blob/main/img/app7.png">
+
+<br>
+
+商品分类
+
+<img src="https://github.com/jianghao-py/Vue-Shop-Admin/blob/main/img/app8.png">
+
+<br>
+
+订单
+
+<img src="https://github.com/jianghao-py/Vue-Shop-Admin/blob/main/img/app9.png">
+
+<br>
+
+图表
+
+<img src="https://github.com/jianghao-py/Vue-Shop-Admin/blob/main/img/app10.png">
+
+<br>
+
+登录界面
+
+<img src="https://github.com/jianghao-py/Vue-Shop-Admin/blob/main/img/app11.png">
+
