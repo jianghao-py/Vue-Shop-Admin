@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: “Arial”,”Microsoft YaHei”,”黑体”,”宋体”,sans-serif;
+  }
+  
+html,body{
+  height: 100%;
+    /* background-color: #f8dec8; */
+}
+
+#app{
+  min-width: 1366px;
+}
+
+.clearFix::before,
+.clearFix::after{
+  content: '';
+  display: table;
+  clear: both;
+}
+
+
+.el-breadcrumb{
+  margin-bottom: 30px;
+  font-size: 13px;
+}
+
+.el-cascader-panel{
+  height: 200px;
+}
+
+
+.ql-editor{
+  min-height: 300px;
+}
+
