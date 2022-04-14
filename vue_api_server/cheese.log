@@ -199,3 +199,23 @@
 [2022-04-14T11:12:44.633] [DEBUG] cheese - admin
 [2022-04-14T11:12:44.649] [DEBUG] cheese - null
 [2022-04-14T11:12:44.649] [DEBUG] cheese - null
+[2022-04-14T11:51:31.020] [DEBUG] cheese - login => username:admin,password:123456
+[2022-04-14T11:51:31.021] [DEBUG] cheese - admin
+[2022-04-14T11:51:31.023] [DEBUG] cheese - null
+[2022-04-14T11:51:31.024] [DEBUG] cheese - null
+[2022-04-14T12:08:20.880] [DEBUG] cheese - login => username:admin,password:123456
+[2022-04-14T12:08:20.881] [DEBUG] cheese - admin
+[2022-04-14T12:08:20.887] [DEBUG] cheese - null
+[2022-04-14T12:08:20.887] [DEBUG] cheese - null
+[2022-04-14T12:39:31.636] [DEBUG] cheese - login => username:admin,password:123456
+[2022-04-14T12:39:31.637] [DEBUG] cheese - admin
+[2022-04-14T12:39:31.641] [DEBUG] cheese - { inspect: [Function: inspect] }
+[2022-04-14T12:39:31.642] [DEBUG] cheese - 查询失败
+[2022-04-14T12:39:36.007] [DEBUG] cheese - login => username:admin,password:123456
+[2022-04-14T12:39:36.007] [DEBUG] cheese - admin
+[2022-04-14T12:39:36.009] [DEBUG] cheese - { inspect: [Function: inspect] }
+[2022-04-14T12:39:36.009] [DEBUG] cheese - 查询失败
+[2022-04-14T12:39:42.955] [DEBUG] cheese - login => username:admin,password:123456
+[2022-04-14T12:39:42.955] [DEBUG] cheese - admin
+[2022-04-14T12:39:42.961] [DEBUG] cheese - null
+[2022-04-14T12:39:42.961] [DEBUG] cheese - null

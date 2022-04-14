@@ -6,7 +6,7 @@
         </div>
 
         <el-card style="height:280px; width:40%; position:absolute;right:30px; text-align:center">
-            <a href="https://github.com/jianghao-py">
+            <a href="https://github.com/jianghao-py/Vue-Shop-Admin">
             
                 <h3>Github 链接</h3>
 
