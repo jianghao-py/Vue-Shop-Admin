@@ -21,4 +21,10 @@ PC端零售管理系统
 
 **第四步：** 在vue-admin文件下，是我们的**正式程序**，按照vue2.0的方式启动项目，**npm run serve**
 
+<br>
 
+### 成果展示
+
+欢迎页
+
+<img src="https://github.com/jianghao-py/Vue-Shop-Admin/blob/main/img/app1.png">
