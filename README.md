@@ -1,6 +1,6 @@
 ### Vue-Shop-Admin 
 
-PC端零售管理系统
+### PC端零售系统
 
 <br>
 
