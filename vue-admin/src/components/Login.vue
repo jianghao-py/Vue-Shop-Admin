@@ -25,7 +25,6 @@
                     <!-- 提交按钮 -->
                     <el-form-item class="btns">
                         <el-button round class="login-btn" @click="login">登录</el-button>
-                        <el-button round class="reset-btn">忘记密码</el-button>
                     </el-form-item>
 
                 </el-form>
